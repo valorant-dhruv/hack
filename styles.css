@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap");
+.soci {
+  margin-left: 550px;
+}
+
+.thou {
+  margin-left: 400px;
+}
+
+.navbar-nav {
+  padding: 10px;
+  font-size: 20px;
+  font-family: Raleway;
+}
+
+.welcome {
+  font-family: Pattaya;
+  text-align: center;
+  font-size: 50px;
+}
+
+.comm {
+  font-family: Pattaya;
+  text-align: center;
+  font-size: 50px;
+}
+
+.intro {
+  background-color: aliceblue;
+}
+.about {
+  font-style: normal;
+  font-family: Noto Sans JP;
+  text-align: left;
+  font-size: 20px;
+}
+
+.main {
+  background-color: #e3b6ac;
+}
+
+/* .yt {
+  position: absolute;
+  display: inline-block;
+  margin-left: 500px;
+} */
